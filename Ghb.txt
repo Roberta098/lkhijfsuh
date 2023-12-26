@@ -1,3 +1,13 @@
+1226
+trojan://3d387820-a391-11ee-8ef4-1239d0255272@fr1.test3.net:443?allowInsecureHostname=1&allowInsecureCertificate=1&allowInsecure=1#CC_4
+trojan://5ed78b00-a391-11ee-8fd5-1239d0255272@fr1.test3.net:443?allowInsecureHostname=1&allowInsecureCertificate=1&allowInsecure=1#CC_5
+trojan://7da695d0-a391-11ee-bf58-1239d0255272@fr1.test3.net:443?allowInsecureHostname=1&allowInsecureCertificate=1&allowInsecure=1#CC_6
+trojan://opentunnel.net-fasfadgszdadwq@ust-2.optnl.com:443?allowInsecureHostname=1&allowInsecureCertificate=1&allowInsecure=1#opentunnel.net-fasfadgszdadwq
+trojan://opentunnel.net-kdoajioja@ust-2.optnl.com:443?allowInsecureHostname=1&allowInsecureCertificate=1&allowInsecure=1#opentunnel.net-kdoajioja
+trojan://opentunnel.net-fasfrewgsd@ust-2.optnl.com:443?allowInsecureHostname=1&allowInsecureCertificate=1&allowInsecure=1#opentunnel.net-fasfrewgsd
+trojan://opentunnel.net-afsewtfshdf@ust-2.optnl.com:443?allowInsecureHostname=1&allowInsecureCertificate=1&allowInsecure=1#opentunnel.net-afsewtfshdf
+
+
 1210
 trojan://opentunnel.net-cfghfdfb@ust-2.optnl.com:443?sni=www.nhfyt.com#opentunnel.net-cfghfdfb
 trojan://opentunnel.net-mfjugywojdg@ust-2.optnl.com:443?sni=www.cnghsufs#opentunnel.net-mfjugywojdg
