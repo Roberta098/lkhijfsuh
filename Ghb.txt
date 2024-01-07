@@ -1,13 +1,13 @@
 
 0106-0206
-trojan://d16a9e80-ad03-11ee-9f08-1239d0255272@fr1.test3.net:443/?sni=
-trojan://14000130-ad04-11ee-aa78-1239d0255272@fr1.test3.net:443/?sni=
-trojan://797e70e0-ad04-11ee-b2f7-1239d0255272@fr1.test3.net:443/?sni=
-trojan://b48b7d70-ad04-11ee-bdab-1239d0255272@fr1.test3.net:443/?sni=
+trojan://d16a9e80-ad03-11ee-9f08-1239d0255272@fr1.test3.net:443?allowInsecureHostname=1&allowInsecureCertificate=1&allowInsecure=1#111111111111_3
+trojan://14000130-ad04-11ee-aa78-1239d0255272@fr1.test3.net:443?allowInsecureHostname=1&allowInsecureCertificate=1&allowInsecure=1#111111111111_4
+trojan://797e70e0-ad04-11ee-b2f7-1239d0255272@fr1.test3.net:443?allowInsecureHostname=1&allowInsecureCertificate=1&allowInsecure=1#111111111111_5
+trojan://b48b7d70-ad04-11ee-bdab-1239d0255272@fr1.test3.net:443?allowInsecureHostname=1&allowInsecureCertificate=1&allowInsecure=1#111111111111_6
 
 0103-0203
-trojan://995474e0-ac17-11ee-a586-1239d0255272@fr1.test3.net:443/?sni=
-trojan://64dfce40-ac18-11ee-8c5f-1239d0255272@fr1.test3.net:443/?sni=
+trojan://995474e0-ac17-11ee-a586-1239d0255272@fr1.test3.net:443?allowInsecureHostname=1&allowInsecureCertificate=1&allowInsecure=1#111111111111_1
+trojan://64dfce40-ac18-11ee-8c5f-1239d0255272@fr1.test3.net:443?allowInsecureHostname=1&allowInsecureCertificate=1&allowInsecure=1#111111111111_2=
 
 1226
 trojan://3d387820-a391-11ee-8ef4-1239d0255272@fr1.test3.net:443?allowInsecureHostname=1&allowInsecureCertificate=1&allowInsecure=1#CC_4
