@@ -1,3 +1,11 @@
+0125-0225
+
+trojan://opentunnel.net-twtterye@ust-2.optnl.com:443?allowInsecureHostname=1&allowInsecureCertificate=1&allowInsecure=1&sni=www.gsgyeryer.com#opentunnel.net-twtterye
+trojan://opentunnel.net-yrehdewtewt@ust-2.optnl.com:443?allowInsecureHostname=1&allowInsecureCertificate=1&allowInsecure=1&sni=www.hrdyerfa.com#opentunnel.net-yrehdewtewt
+trojan://opentunnel.net-tetergdur5ufe@ust-2.optnl.com:443?allowInsecureHostname=1&allowInsecureCertificate=1&allowInsecure=1&sni=www.dferygsdg.com#opentunnel.net-tetergdur5ufe
+trojan://opentunnel.net-rwetwewqrw@ust-2.optnl.com:443?allowInsecureHostname=1&allowInsecureCertificate=1&allowInsecure=1&sni=www.tregsyey.com#opentunnel.net-rwetwewqrw
+trojan://opentunnel.net-urttetfsrw@ust-2.optnl.com:443?allowInsecureHostname=1&allowInsecureCertificate=1&allowInsecure=1&sni=www.gstjtasd.com#opentunnel.net-urttetfsrw
+trojan://opentunnel.net-wetweesrqwdh@ust-2.optnl.com:443?allowInsecureHostname=1&allowInsecureCertificate=1&allowInsecure=1&sni=www.gdteyfg.com#opentunnel.net-wetweesrqwdh
 
 0106-0206
 trojan://d16a9e80-ad03-11ee-9f08-1239d0255272@fr1.test3.net:443?allowInsecureHostname=1&allowInsecureCertificate=1&allowInsecure=1#111111111111_3
@@ -8,8 +16,3 @@ trojan://b48b7d70-ad04-11ee-bdab-1239d0255272@fr1.test3.net:443?allowInsecureHos
 0103-0203
 trojan://995474e0-ac17-11ee-a586-1239d0255272@fr1.test3.net:443?allowInsecureHostname=1&allowInsecureCertificate=1&allowInsecure=1#111111111111_1
 trojan://64dfce40-ac18-11ee-8c5f-1239d0255272@fr1.test3.net:443?allowInsecureHostname=1&allowInsecureCertificate=1&allowInsecure=1#111111111111_2=
-
-1226
-trojan://3d387820-a391-11ee-8ef4-1239d0255272@fr1.test3.net:443?allowInsecureHostname=1&allowInsecureCertificate=1&allowInsecure=1#CC_4
-trojan://5ed78b00-a391-11ee-8fd5-1239d0255272@fr1.test3.net:443?allowInsecureHostname=1&allowInsecureCertificate=1&allowInsecure=1#CC_5
-trojan://7da695d0-a391-11ee-bf58-1239d0255272@fr1.test3.net:443?allowInsecureHostname=1&allowInsecureCertificate=1&allowInsecure=1#CC_6
