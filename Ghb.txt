@@ -1,3 +1,15 @@
+0208-0308
+trojan://opentunnel.net-teefeedwqd@ust-2.optnl.com:443?flow=&security=tls&sni=www.fewtweh.com&type=tcp&header=none&host=&path=&alpn=&fp=&pbk=&sid=&spx=#opentunnel.net-teefeedwqd 
+trojan://opentunnel.net-rwfsrwgefwq@ust-2.optnl.com:443?flow=&security=tls&sni=www.yerfarwqfa.com&type=tcp&header=none&host=&path=&alpn=&fp=&pbk=&sid=&spx=#opentunnel.net-rwfsrwgefwq 
+trojan://opentunnel.net-gewtwefa@ust-2.optnl.com:443?flow=&security=tls&sni=www.fgstwd.com&type=tcp&header=none&host=&path=&alpn=&fp=&pbk=&sid=&spx=#opentunnel.net-gewtwefa 
+trojan://opentunnel.net-uiyftfhouhoio@ust-2.optnl.com:443?flow=&security=tls&sni=www.ohuihgyff.com&type=tcp&header=none&host=&path=&alpn=&fp=&pbk=&sid=&spx=#opentunnel.net-uiyftfhouhoio 
+trojan://opentunnel.net-ewqtaftwfasd@ust-2.optnl.com:443?flow=&security=tls&sni=www.gsgestasgs.com&type=tcp&header=none&host=&path=&alpn=&fp=&pbk=&sid=&spx=#opentunnel.net-ewqtaftwfasd 
+trojan://opentunnel.net-rqwrfarqwrew@ust-2.optnl.com:443?flow=&security=tls&sni=www.hyrwyfasfwr.com&type=tcp&header=none&host=&path=&alpn=&fp=&pbk=&sid=&spx=#opentunnel.net-rqwrfarqwrew 
+trojan://opentunnel.net-rewfsafdae@ust-2.optnl.com:443?flow=&security=tls&sni=www.sdgtwefasf.com&type=tcp&header=none&host=&path=&alpn=&fp=&pbk=&sid=&spx=#opentunnel.net-rewfsafdae 
+trojan://opentunnel.net-frwqdget@ust-2.optnl.com:443?flow=&security=tls&sni=www.fserwadad.com&type=tcp&header=none&host=&path=&alpn=&fp=&pbk=&sid=&spx=#opentunnel.net-frwqdget 
+trojan://opentunnel.net-dartwtfrwrwq@ust-2.optnl.com:443?flow=&security=tls&sni=www.gsdtewhd.com&type=tcp&header=none&host=&path=&alpn=&fp=&pbk=&sid=&spx=#opentunnel.net-dartwtfrwrwq 
+trojan://opentunnel.net-wtfarqwge@ust-2.optnl.com:443?flow=&security=tls&sni=www.fatewdg.com&type=tcp&header=none&host=&path=&alpn=&fp=&pbk=&sid=&spx=#opentunnel.net-wtfarqwge 
+
 0125-0225
 
 trojan://opentunnel.net-twtterye@ust-2.optnl.com:443?allowInsecureHostname=1&allowInsecureCertificate=1&allowInsecure=1&sni=www.gsgyeryer.com#opentunnel.net-twtterye
@@ -7,12 +19,3 @@ trojan://opentunnel.net-rwetwewqrw@ust-2.optnl.com:443?allowInsecureHostname=1&a
 trojan://opentunnel.net-urttetfsrw@ust-2.optnl.com:443?allowInsecureHostname=1&allowInsecureCertificate=1&allowInsecure=1&sni=www.gstjtasd.com#opentunnel.net-urttetfsrw
 trojan://opentunnel.net-wetweesrqwdh@ust-2.optnl.com:443?allowInsecureHostname=1&allowInsecureCertificate=1&allowInsecure=1&sni=www.gdteyfg.com#opentunnel.net-wetweesrqwdh
 
-0106-0206
-trojan://d16a9e80-ad03-11ee-9f08-1239d0255272@fr1.test3.net:443?allowInsecureHostname=1&allowInsecureCertificate=1&allowInsecure=1#111111111111_3
-trojan://14000130-ad04-11ee-aa78-1239d0255272@fr1.test3.net:443?allowInsecureHostname=1&allowInsecureCertificate=1&allowInsecure=1#111111111111_4
-trojan://797e70e0-ad04-11ee-b2f7-1239d0255272@fr1.test3.net:443?allowInsecureHostname=1&allowInsecureCertificate=1&allowInsecure=1#111111111111_5
-trojan://b48b7d70-ad04-11ee-bdab-1239d0255272@fr1.test3.net:443?allowInsecureHostname=1&allowInsecureCertificate=1&allowInsecure=1#111111111111_6
-
-0103-0203
-trojan://995474e0-ac17-11ee-a586-1239d0255272@fr1.test3.net:443?allowInsecureHostname=1&allowInsecureCertificate=1&allowInsecure=1#111111111111_1
-trojan://64dfce40-ac18-11ee-8c5f-1239d0255272@fr1.test3.net:443?allowInsecureHostname=1&allowInsecureCertificate=1&allowInsecure=1#111111111111_2=
