@@ -9,13 +9,3 @@ trojan://opentunnel.net-rewfsafdae@ust-2.optnl.com:443?flow=&security=tls&sni=ww
 trojan://opentunnel.net-frwqdget@ust-2.optnl.com:443?flow=&security=tls&sni=www.fserwadad.com&type=tcp&header=none&host=&path=&alpn=&fp=&pbk=&sid=&spx=#opentunnel.net-frwqdget 
 trojan://opentunnel.net-dartwtfrwrwq@ust-2.optnl.com:443?flow=&security=tls&sni=www.gsdtewhd.com&type=tcp&header=none&host=&path=&alpn=&fp=&pbk=&sid=&spx=#opentunnel.net-dartwtfrwrwq 
 trojan://opentunnel.net-wtfarqwge@ust-2.optnl.com:443?flow=&security=tls&sni=www.fatewdg.com&type=tcp&header=none&host=&path=&alpn=&fp=&pbk=&sid=&spx=#opentunnel.net-wtfarqwge 
-
-0125-0225
-
-trojan://opentunnel.net-twtterye@ust-2.optnl.com:443?allowInsecureHostname=1&allowInsecureCertificate=1&allowInsecure=1&sni=www.gsgyeryer.com#opentunnel.net-twtterye
-trojan://opentunnel.net-yrehdewtewt@ust-2.optnl.com:443?allowInsecureHostname=1&allowInsecureCertificate=1&allowInsecure=1&sni=www.hrdyerfa.com#opentunnel.net-yrehdewtewt
-trojan://opentunnel.net-tetergdur5ufe@ust-2.optnl.com:443?allowInsecureHostname=1&allowInsecureCertificate=1&allowInsecure=1&sni=www.dferygsdg.com#opentunnel.net-tetergdur5ufe
-trojan://opentunnel.net-rwetwewqrw@ust-2.optnl.com:443?allowInsecureHostname=1&allowInsecureCertificate=1&allowInsecure=1&sni=www.tregsyey.com#opentunnel.net-rwetwewqrw
-trojan://opentunnel.net-urttetfsrw@ust-2.optnl.com:443?allowInsecureHostname=1&allowInsecureCertificate=1&allowInsecure=1&sni=www.gstjtasd.com#opentunnel.net-urttetfsrw
-trojan://opentunnel.net-wetweesrqwdh@ust-2.optnl.com:443?allowInsecureHostname=1&allowInsecureCertificate=1&allowInsecure=1&sni=www.gdteyfg.com#opentunnel.net-wetweesrqwdh
-
